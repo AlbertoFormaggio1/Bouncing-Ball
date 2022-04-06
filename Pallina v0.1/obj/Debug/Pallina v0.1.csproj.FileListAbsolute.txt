@@ -1,0 +1,170 @@
+H:\dati\SCUOLA\QUARTA\INFORMATICA\Progetto Pallina\Pallina v0.1\Pallina v0.1\obj\Debug\Pallina v0.1.csprojResolveAssemblyReference.cache
+H:\dati\SCUOLA\QUARTA\INFORMATICA\Progetto Pallina\Pallina v0.1\Pallina v0.1\obj\Debug\Pallina_v0._1.Form1.resources
+H:\dati\SCUOLA\QUARTA\INFORMATICA\Progetto Pallina\Pallina v0.1\Pallina v0.1\obj\Debug\Pallina_v0._1.Properties.Resources.resources
+H:\dati\SCUOLA\QUARTA\INFORMATICA\Progetto Pallina\Pallina v0.1\Pallina v0.1\obj\Debug\Pallina v0.1.csproj.GenerateResource.Cache
+H:\dati\SCUOLA\QUARTA\INFORMATICA\Progetto Pallina\Pallina v0.1\Pallina v0.1\obj\Debug\Pallina v0.1.csproj.CoreCompileInputs.cache
+H:\dati\SCUOLA\QUARTA\INFORMATICA\Progetto Pallina\Pallina v0.1\Pallina v0.1\bin\Debug\Pallina v0.1.exe.config
+H:\dati\SCUOLA\QUARTA\INFORMATICA\Progetto Pallina\Pallina v0.1\Pallina v0.1\bin\Debug\Pallina v0.1.exe
+H:\dati\SCUOLA\QUARTA\INFORMATICA\Progetto Pallina\Pallina v0.1\Pallina v0.1\bin\Debug\Pallina v0.1.pdb
+H:\dati\SCUOLA\QUARTA\INFORMATICA\Progetto Pallina\Pallina v0.1\Pallina v0.1\obj\Debug\Pallina v0.1.exe
+H:\dati\SCUOLA\QUARTA\INFORMATICA\Progetto Pallina\Pallina v0.1\Pallina v0.1\obj\Debug\Pallina v0.1.pdb
+G:\dati\SCUOLA\QUARTA\INFORMATICA\Progetto Pallina\Pallina v0.1\Pallina v0.1\bin\Debug\Pallina v0.1.exe.config
+G:\dati\SCUOLA\QUARTA\INFORMATICA\Progetto Pallina\Pallina v0.1\Pallina v0.1\bin\Debug\Pallina v0.1.exe
+G:\dati\SCUOLA\QUARTA\INFORMATICA\Progetto Pallina\Pallina v0.1\Pallina v0.1\bin\Debug\Pallina v0.1.pdb
+G:\dati\SCUOLA\QUARTA\INFORMATICA\Progetto Pallina\Pallina v0.1\Pallina v0.1\obj\Debug\Pallina v0.1.csprojResolveAssemblyReference.cache
+G:\dati\SCUOLA\QUARTA\INFORMATICA\Progetto Pallina\Pallina v0.1\Pallina v0.1\obj\Debug\Pallina_v0._1.Form1.resources
+G:\dati\SCUOLA\QUARTA\INFORMATICA\Progetto Pallina\Pallina v0.1\Pallina v0.1\obj\Debug\Pallina_v0._1.Properties.Resources.resources
+G:\dati\SCUOLA\QUARTA\INFORMATICA\Progetto Pallina\Pallina v0.1\Pallina v0.1\obj\Debug\Pallina v0.1.csproj.GenerateResource.Cache
+G:\dati\SCUOLA\QUARTA\INFORMATICA\Progetto Pallina\Pallina v0.1\Pallina v0.1\obj\Debug\Pallina v0.1.csproj.CoreCompileInputs.cache
+G:\dati\SCUOLA\QUARTA\INFORMATICA\Progetto Pallina\Pallina v0.1\Pallina v0.1\obj\Debug\Pallina v0.1.exe
+G:\dati\SCUOLA\QUARTA\INFORMATICA\Progetto Pallina\Pallina v0.1\Pallina v0.1\obj\Debug\Pallina v0.1.pdb
+G:\dati\SCUOLA\QUARTA\INFORMATICA\Progetto Pallina\Pallina v0.1 - Copia\Pallina v0.1\obj\Debug\Pallina v0.1.csprojResolveAssemblyReference.cache
+G:\dati\SCUOLA\QUARTA\INFORMATICA\Progetto Pallina\Pallina v0.1 - Copia\Pallina v0.1\obj\Debug\Pallina_v0._1.Form1.resources
+G:\dati\SCUOLA\QUARTA\INFORMATICA\Progetto Pallina\Pallina v0.1 - Copia\Pallina v0.1\obj\Debug\Pallina_v0._1.Properties.Resources.resources
+G:\dati\SCUOLA\QUARTA\INFORMATICA\Progetto Pallina\Pallina v0.1 - Copia\Pallina v0.1\obj\Debug\Pallina v0.1.csproj.GenerateResource.Cache
+G:\dati\SCUOLA\QUARTA\INFORMATICA\Progetto Pallina\Pallina v0.1 - Copia\Pallina v0.1\obj\Debug\Pallina v0.1.csproj.CoreCompileInputs.cache
+G:\dati\SCUOLA\QUARTA\INFORMATICA\Progetto Pallina\Pallina v0.1 - Copia\Pallina v0.1\obj\Debug\Pallina v0.1.exe
+G:\dati\SCUOLA\QUARTA\INFORMATICA\Progetto Pallina\Pallina v0.1 - Copia\Pallina v0.1\obj\Debug\Pallina v0.1.pdb
+G:\dati\SCUOLA\QUARTA\INFORMATICA\Progetto Pallina\Pallina v0.1 - Copia\Pallina v0.1\bin\Debug\Pallina v0.1.exe.config
+G:\dati\SCUOLA\QUARTA\INFORMATICA\Progetto Pallina\Pallina v0.1 - Copia\Pallina v0.1\bin\Debug\Pallina v0.1.exe
+G:\dati\SCUOLA\QUARTA\INFORMATICA\Progetto Pallina\Pallina v0.1 - Copia\Pallina v0.1\bin\Debug\Pallina v0.1.pdb
+G:\dati\SCUOLA\QUARTA\INFORMATICA\Progetto Pallina\Pallina v0.2 - Copia\Pallina v0.1\bin\Debug\Pallina v0.1.exe.config
+G:\dati\SCUOLA\QUARTA\INFORMATICA\Progetto Pallina\Pallina v0.2 - Copia\Pallina v0.1\bin\Debug\Pallina v0.1.exe
+G:\dati\SCUOLA\QUARTA\INFORMATICA\Progetto Pallina\Pallina v0.2 - Copia\Pallina v0.1\bin\Debug\Pallina v0.1.pdb
+G:\dati\SCUOLA\QUARTA\INFORMATICA\Progetto Pallina\Pallina v0.2 - Copia\Pallina v0.1\obj\Debug\Pallina v0.1.csprojResolveAssemblyReference.cache
+G:\dati\SCUOLA\QUARTA\INFORMATICA\Progetto Pallina\Pallina v0.2 - Copia\Pallina v0.1\obj\Debug\Pallina_v0._1.Form1.resources
+G:\dati\SCUOLA\QUARTA\INFORMATICA\Progetto Pallina\Pallina v0.2 - Copia\Pallina v0.1\obj\Debug\Pallina_v0._1.Properties.Resources.resources
+G:\dati\SCUOLA\QUARTA\INFORMATICA\Progetto Pallina\Pallina v0.2 - Copia\Pallina v0.1\obj\Debug\Pallina v0.1.csproj.GenerateResource.Cache
+G:\dati\SCUOLA\QUARTA\INFORMATICA\Progetto Pallina\Pallina v0.2 - Copia\Pallina v0.1\obj\Debug\Pallina v0.1.csproj.CoreCompileInputs.cache
+G:\dati\SCUOLA\QUARTA\INFORMATICA\Progetto Pallina\Pallina v0.2 - Copia\Pallina v0.1\obj\Debug\Pallina v0.1.exe
+G:\dati\SCUOLA\QUARTA\INFORMATICA\Progetto Pallina\Pallina v0.2 - Copia\Pallina v0.1\obj\Debug\Pallina v0.1.pdb
+G:\dati\SCUOLA\QUARTA\INFORMATICA\Progetto Pallina\Pallina v1.1\Pallina v0.1\bin\Debug\Pallina v0.1.exe.config
+G:\dati\SCUOLA\QUARTA\INFORMATICA\Progetto Pallina\Pallina v1.1\Pallina v0.1\bin\Debug\Pallina v0.1.exe
+G:\dati\SCUOLA\QUARTA\INFORMATICA\Progetto Pallina\Pallina v1.1\Pallina v0.1\bin\Debug\Pallina v0.1.pdb
+G:\dati\SCUOLA\QUARTA\INFORMATICA\Progetto Pallina\Pallina v1.1\Pallina v0.1\obj\Debug\Pallina v0.1.csprojResolveAssemblyReference.cache
+G:\dati\SCUOLA\QUARTA\INFORMATICA\Progetto Pallina\Pallina v1.1\Pallina v0.1\obj\Debug\Pallina_v0._1.Form1.resources
+G:\dati\SCUOLA\QUARTA\INFORMATICA\Progetto Pallina\Pallina v1.1\Pallina v0.1\obj\Debug\Pallina_v0._1.Properties.Resources.resources
+G:\dati\SCUOLA\QUARTA\INFORMATICA\Progetto Pallina\Pallina v1.1\Pallina v0.1\obj\Debug\Pallina v0.1.csproj.GenerateResource.Cache
+G:\dati\SCUOLA\QUARTA\INFORMATICA\Progetto Pallina\Pallina v1.1\Pallina v0.1\obj\Debug\Pallina v0.1.csproj.CoreCompileInputs.cache
+G:\dati\SCUOLA\QUARTA\INFORMATICA\Progetto Pallina\Pallina v1.1\Pallina v0.1\obj\Debug\Pallina v0.1.exe
+G:\dati\SCUOLA\QUARTA\INFORMATICA\Progetto Pallina\Pallina v1.1\Pallina v0.1\obj\Debug\Pallina v0.1.pdb
+H:\dati\SCUOLA\QUARTA\INFORMATICA\Progetto Pallina\Pallina v1.2\Pallina v0.1\bin\Debug\Pallina v0.1.exe.config
+H:\dati\SCUOLA\QUARTA\INFORMATICA\Progetto Pallina\Pallina v1.2\Pallina v0.1\bin\Debug\Pallina v0.1.exe
+H:\dati\SCUOLA\QUARTA\INFORMATICA\Progetto Pallina\Pallina v1.2\Pallina v0.1\bin\Debug\Pallina v0.1.pdb
+H:\dati\SCUOLA\QUARTA\INFORMATICA\Progetto Pallina\Pallina v1.2\Pallina v0.1\obj\Debug\Pallina v0.1.csprojResolveAssemblyReference.cache
+H:\dati\SCUOLA\QUARTA\INFORMATICA\Progetto Pallina\Pallina v1.2\Pallina v0.1\obj\Debug\Pallina_v0._1.Form1.resources
+H:\dati\SCUOLA\QUARTA\INFORMATICA\Progetto Pallina\Pallina v1.2\Pallina v0.1\obj\Debug\Pallina_v0._1.Properties.Resources.resources
+H:\dati\SCUOLA\QUARTA\INFORMATICA\Progetto Pallina\Pallina v1.2\Pallina v0.1\obj\Debug\Pallina v0.1.csproj.GenerateResource.Cache
+H:\dati\SCUOLA\QUARTA\INFORMATICA\Progetto Pallina\Pallina v1.2\Pallina v0.1\obj\Debug\Pallina v0.1.csproj.CoreCompileInputs.cache
+H:\dati\SCUOLA\QUARTA\INFORMATICA\Progetto Pallina\Pallina v1.2\Pallina v0.1\obj\Debug\Pallina v0.1.exe
+H:\dati\SCUOLA\QUARTA\INFORMATICA\Progetto Pallina\Pallina v1.2\Pallina v0.1\obj\Debug\Pallina v0.1.pdb
+G:\dati\SCUOLA\QUARTA\INFORMATICA\Progetto Pallina\Pallina v1.2\Pallina v0.1\bin\Debug\Pallina v0.1.exe.config
+G:\dati\SCUOLA\QUARTA\INFORMATICA\Progetto Pallina\Pallina v1.2\Pallina v0.1\bin\Debug\Pallina v0.1.exe
+G:\dati\SCUOLA\QUARTA\INFORMATICA\Progetto Pallina\Pallina v1.2\Pallina v0.1\bin\Debug\Pallina v0.1.pdb
+G:\dati\SCUOLA\QUARTA\INFORMATICA\Progetto Pallina\Pallina v1.2\Pallina v0.1\obj\Debug\Pallina v0.1.csprojResolveAssemblyReference.cache
+G:\dati\SCUOLA\QUARTA\INFORMATICA\Progetto Pallina\Pallina v1.2\Pallina v0.1\obj\Debug\Pallina_v0._1.Form1.resources
+G:\dati\SCUOLA\QUARTA\INFORMATICA\Progetto Pallina\Pallina v1.2\Pallina v0.1\obj\Debug\Pallina_v0._1.Properties.Resources.resources
+G:\dati\SCUOLA\QUARTA\INFORMATICA\Progetto Pallina\Pallina v1.2\Pallina v0.1\obj\Debug\Pallina v0.1.csproj.GenerateResource.Cache
+G:\dati\SCUOLA\QUARTA\INFORMATICA\Progetto Pallina\Pallina v1.2\Pallina v0.1\obj\Debug\Pallina v0.1.csproj.CoreCompileInputs.cache
+G:\dati\SCUOLA\QUARTA\INFORMATICA\Progetto Pallina\Pallina v1.2\Pallina v0.1\obj\Debug\Pallina v0.1.exe
+G:\dati\SCUOLA\QUARTA\INFORMATICA\Progetto Pallina\Pallina v1.2\Pallina v0.1\obj\Debug\Pallina v0.1.pdb
+G:\dati\SCUOLA\QUARTA\INFORMATICA\Progetto Pallina\Pallina v1.3\Pallina v0.1\bin\Debug\Pallina v0.1.exe.config
+G:\dati\SCUOLA\QUARTA\INFORMATICA\Progetto Pallina\Pallina v1.3\Pallina v0.1\bin\Debug\Pallina v0.1.exe
+G:\dati\SCUOLA\QUARTA\INFORMATICA\Progetto Pallina\Pallina v1.3\Pallina v0.1\bin\Debug\Pallina v0.1.pdb
+G:\dati\SCUOLA\QUARTA\INFORMATICA\Progetto Pallina\Pallina v1.3\Pallina v0.1\obj\Debug\Pallina v0.1.csprojResolveAssemblyReference.cache
+G:\dati\SCUOLA\QUARTA\INFORMATICA\Progetto Pallina\Pallina v1.3\Pallina v0.1\obj\Debug\Pallina_v0._1.Form1.resources
+G:\dati\SCUOLA\QUARTA\INFORMATICA\Progetto Pallina\Pallina v1.3\Pallina v0.1\obj\Debug\Pallina_v0._1.Properties.Resources.resources
+G:\dati\SCUOLA\QUARTA\INFORMATICA\Progetto Pallina\Pallina v1.3\Pallina v0.1\obj\Debug\Pallina v0.1.csproj.GenerateResource.Cache
+G:\dati\SCUOLA\QUARTA\INFORMATICA\Progetto Pallina\Pallina v1.3\Pallina v0.1\obj\Debug\Pallina v0.1.csproj.CoreCompileInputs.cache
+G:\dati\SCUOLA\QUARTA\INFORMATICA\Progetto Pallina\Pallina v1.3\Pallina v0.1\obj\Debug\Pallina v0.1.exe
+G:\dati\SCUOLA\QUARTA\INFORMATICA\Progetto Pallina\Pallina v1.3\Pallina v0.1\obj\Debug\Pallina v0.1.pdb
+G:\dati\SCUOLA\QUARTA\INFORMATICA\Progetto Pallina\Pallina v2.1\Pallina v0.1\bin\Debug\Pallina v0.1.exe.config
+G:\dati\SCUOLA\QUARTA\INFORMATICA\Progetto Pallina\Pallina v2.1\Pallina v0.1\bin\Debug\Pallina v0.1.exe
+G:\dati\SCUOLA\QUARTA\INFORMATICA\Progetto Pallina\Pallina v2.1\Pallina v0.1\bin\Debug\Pallina v0.1.pdb
+G:\dati\SCUOLA\QUARTA\INFORMATICA\Progetto Pallina\Pallina v2.1\Pallina v0.1\obj\Debug\Pallina v0.1.csprojResolveAssemblyReference.cache
+G:\dati\SCUOLA\QUARTA\INFORMATICA\Progetto Pallina\Pallina v2.1\Pallina v0.1\obj\Debug\Pallina_v0._1.Form1.resources
+G:\dati\SCUOLA\QUARTA\INFORMATICA\Progetto Pallina\Pallina v2.1\Pallina v0.1\obj\Debug\Pallina_v0._1.Properties.Resources.resources
+G:\dati\SCUOLA\QUARTA\INFORMATICA\Progetto Pallina\Pallina v2.1\Pallina v0.1\obj\Debug\Pallina v0.1.csproj.GenerateResource.Cache
+G:\dati\SCUOLA\QUARTA\INFORMATICA\Progetto Pallina\Pallina v2.1\Pallina v0.1\obj\Debug\Pallina v0.1.csproj.CoreCompileInputs.cache
+G:\dati\SCUOLA\QUARTA\INFORMATICA\Progetto Pallina\Pallina v2.1\Pallina v0.1\obj\Debug\Pallina v0.1.exe
+G:\dati\SCUOLA\QUARTA\INFORMATICA\Progetto Pallina\Pallina v2.1\Pallina v0.1\obj\Debug\Pallina v0.1.pdb
+H:\dati\SCUOLA\QUARTA\INFORMATICA\Progetto Pallina\Pallina v2.1\Pallina v0.1\bin\Debug\Pallina v0.1.exe.config
+H:\dati\SCUOLA\QUARTA\INFORMATICA\Progetto Pallina\Pallina v2.1\Pallina v0.1\bin\Debug\Pallina v0.1.exe
+H:\dati\SCUOLA\QUARTA\INFORMATICA\Progetto Pallina\Pallina v2.1\Pallina v0.1\bin\Debug\Pallina v0.1.pdb
+H:\dati\SCUOLA\QUARTA\INFORMATICA\Progetto Pallina\Pallina v2.1\Pallina v0.1\obj\Debug\Pallina v0.1.csprojResolveAssemblyReference.cache
+H:\dati\SCUOLA\QUARTA\INFORMATICA\Progetto Pallina\Pallina v2.1\Pallina v0.1\obj\Debug\Pallina_v0._1.Form1.resources
+H:\dati\SCUOLA\QUARTA\INFORMATICA\Progetto Pallina\Pallina v2.1\Pallina v0.1\obj\Debug\Pallina_v0._1.Properties.Resources.resources
+H:\dati\SCUOLA\QUARTA\INFORMATICA\Progetto Pallina\Pallina v2.1\Pallina v0.1\obj\Debug\Pallina v0.1.csproj.GenerateResource.Cache
+H:\dati\SCUOLA\QUARTA\INFORMATICA\Progetto Pallina\Pallina v2.1\Pallina v0.1\obj\Debug\Pallina v0.1.csproj.CoreCompileInputs.cache
+H:\dati\SCUOLA\QUARTA\INFORMATICA\Progetto Pallina\Pallina v2.1\Pallina v0.1\obj\Debug\Pallina v0.1.exe
+H:\dati\SCUOLA\QUARTA\INFORMATICA\Progetto Pallina\Pallina v2.1\Pallina v0.1\obj\Debug\Pallina v0.1.pdb
+H:\dati\SCUOLA\QUARTA\INFORMATICA\Progetto Pallina\Pallina v2.2\Pallina v0.1\bin\Debug\Pallina v0.1.exe.config
+H:\dati\SCUOLA\QUARTA\INFORMATICA\Progetto Pallina\Pallina v2.2\Pallina v0.1\bin\Debug\Pallina v0.1.exe
+H:\dati\SCUOLA\QUARTA\INFORMATICA\Progetto Pallina\Pallina v2.2\Pallina v0.1\bin\Debug\Pallina v0.1.pdb
+H:\dati\SCUOLA\QUARTA\INFORMATICA\Progetto Pallina\Pallina v2.2\Pallina v0.1\obj\Debug\Pallina v0.1.csprojResolveAssemblyReference.cache
+H:\dati\SCUOLA\QUARTA\INFORMATICA\Progetto Pallina\Pallina v2.2\Pallina v0.1\obj\Debug\Pallina_v0._1.Form1.resources
+H:\dati\SCUOLA\QUARTA\INFORMATICA\Progetto Pallina\Pallina v2.2\Pallina v0.1\obj\Debug\Pallina_v0._1.Properties.Resources.resources
+H:\dati\SCUOLA\QUARTA\INFORMATICA\Progetto Pallina\Pallina v2.2\Pallina v0.1\obj\Debug\Pallina v0.1.csproj.GenerateResource.Cache
+H:\dati\SCUOLA\QUARTA\INFORMATICA\Progetto Pallina\Pallina v2.2\Pallina v0.1\obj\Debug\Pallina v0.1.csproj.CoreCompileInputs.cache
+H:\dati\SCUOLA\QUARTA\INFORMATICA\Progetto Pallina\Pallina v2.2\Pallina v0.1\obj\Debug\Pallina v0.1.exe
+H:\dati\SCUOLA\QUARTA\INFORMATICA\Progetto Pallina\Pallina v2.2\Pallina v0.1\obj\Debug\Pallina v0.1.pdb
+G:\dati\SCUOLA\QUARTA\INFORMATICA\Progetto Pallina\Pallina v2.2\Pallina v0.1\bin\Debug\Pallina v0.1.exe.config
+G:\dati\SCUOLA\QUARTA\INFORMATICA\Progetto Pallina\Pallina v2.2\Pallina v0.1\bin\Debug\Pallina v0.1.exe
+G:\dati\SCUOLA\QUARTA\INFORMATICA\Progetto Pallina\Pallina v2.2\Pallina v0.1\bin\Debug\Pallina v0.1.pdb
+G:\dati\SCUOLA\QUARTA\INFORMATICA\Progetto Pallina\Pallina v2.2\Pallina v0.1\obj\Debug\Pallina v0.1.csprojResolveAssemblyReference.cache
+G:\dati\SCUOLA\QUARTA\INFORMATICA\Progetto Pallina\Pallina v2.2\Pallina v0.1\obj\Debug\Pallina_v0._1.Form1.resources
+G:\dati\SCUOLA\QUARTA\INFORMATICA\Progetto Pallina\Pallina v2.2\Pallina v0.1\obj\Debug\Pallina_v0._1.Properties.Resources.resources
+G:\dati\SCUOLA\QUARTA\INFORMATICA\Progetto Pallina\Pallina v2.2\Pallina v0.1\obj\Debug\Pallina v0.1.csproj.GenerateResource.Cache
+G:\dati\SCUOLA\QUARTA\INFORMATICA\Progetto Pallina\Pallina v2.2\Pallina v0.1\obj\Debug\Pallina v0.1.csproj.CoreCompileInputs.cache
+G:\dati\SCUOLA\QUARTA\INFORMATICA\Progetto Pallina\Pallina v2.2\Pallina v0.1\obj\Debug\Pallina v0.1.exe
+G:\dati\SCUOLA\QUARTA\INFORMATICA\Progetto Pallina\Pallina v2.2\Pallina v0.1\obj\Debug\Pallina v0.1.pdb
+G:\dati\SCUOLA\QUARTA\INFORMATICA\Progetto Pallina\Pallina v2.3\Pallina v0.1\bin\Debug\Pallina v0.1.exe.config
+G:\dati\SCUOLA\QUARTA\INFORMATICA\Progetto Pallina\Pallina v2.3\Pallina v0.1\bin\Debug\Pallina v0.1.exe
+G:\dati\SCUOLA\QUARTA\INFORMATICA\Progetto Pallina\Pallina v2.3\Pallina v0.1\bin\Debug\Pallina v0.1.pdb
+G:\dati\SCUOLA\QUARTA\INFORMATICA\Progetto Pallina\Pallina v2.3\Pallina v0.1\obj\Debug\Pallina v0.1.csprojResolveAssemblyReference.cache
+G:\dati\SCUOLA\QUARTA\INFORMATICA\Progetto Pallina\Pallina v2.3\Pallina v0.1\obj\Debug\Pallina_v0._1.Form1.resources
+G:\dati\SCUOLA\QUARTA\INFORMATICA\Progetto Pallina\Pallina v2.3\Pallina v0.1\obj\Debug\Pallina_v0._1.Properties.Resources.resources
+G:\dati\SCUOLA\QUARTA\INFORMATICA\Progetto Pallina\Pallina v2.3\Pallina v0.1\obj\Debug\Pallina v0.1.csproj.GenerateResource.Cache
+G:\dati\SCUOLA\QUARTA\INFORMATICA\Progetto Pallina\Pallina v2.3\Pallina v0.1\obj\Debug\Pallina v0.1.csproj.CoreCompileInputs.cache
+G:\dati\SCUOLA\QUARTA\INFORMATICA\Progetto Pallina\Pallina v2.3\Pallina v0.1\obj\Debug\Pallina v0.1.exe
+G:\dati\SCUOLA\QUARTA\INFORMATICA\Progetto Pallina\Pallina v2.3\Pallina v0.1\obj\Debug\Pallina v0.1.pdb
+G:\dati\SCUOLA\QUARTA\INFORMATICA\Progetto Pallina\Pallina v2.4\Pallina v0.1\bin\Debug\Pallina v0.1.exe.config
+G:\dati\SCUOLA\QUARTA\INFORMATICA\Progetto Pallina\Pallina v2.4\Pallina v0.1\bin\Debug\Pallina v0.1.exe
+G:\dati\SCUOLA\QUARTA\INFORMATICA\Progetto Pallina\Pallina v2.4\Pallina v0.1\bin\Debug\Pallina v0.1.pdb
+G:\dati\SCUOLA\QUARTA\INFORMATICA\Progetto Pallina\Pallina v2.4\Pallina v0.1\obj\Debug\Pallina v0.1.csprojResolveAssemblyReference.cache
+G:\dati\SCUOLA\QUARTA\INFORMATICA\Progetto Pallina\Pallina v2.4\Pallina v0.1\obj\Debug\Pallina_v0._1.Form1.resources
+G:\dati\SCUOLA\QUARTA\INFORMATICA\Progetto Pallina\Pallina v2.4\Pallina v0.1\obj\Debug\Pallina_v0._1.Properties.Resources.resources
+G:\dati\SCUOLA\QUARTA\INFORMATICA\Progetto Pallina\Pallina v2.4\Pallina v0.1\obj\Debug\Pallina v0.1.csproj.GenerateResource.Cache
+G:\dati\SCUOLA\QUARTA\INFORMATICA\Progetto Pallina\Pallina v2.4\Pallina v0.1\obj\Debug\Pallina v0.1.csproj.CoreCompileInputs.cache
+G:\dati\SCUOLA\QUARTA\INFORMATICA\Progetto Pallina\Pallina v2.4\Pallina v0.1\obj\Debug\Pallina v0.1.exe
+G:\dati\SCUOLA\QUARTA\INFORMATICA\Progetto Pallina\Pallina v2.4\Pallina v0.1\obj\Debug\Pallina v0.1.pdb
+G:\dati\SCUOLA\QUARTA\INFORMATICA\Progetto Pallina\Pallina v2.5\Pallina v0.1\bin\Debug\Pallina v0.1.exe.config
+G:\dati\SCUOLA\QUARTA\INFORMATICA\Progetto Pallina\Pallina v2.5\Pallina v0.1\bin\Debug\Pallina v0.1.exe
+G:\dati\SCUOLA\QUARTA\INFORMATICA\Progetto Pallina\Pallina v2.5\Pallina v0.1\bin\Debug\Pallina v0.1.pdb
+G:\dati\SCUOLA\QUARTA\INFORMATICA\Progetto Pallina\Pallina v2.5\Pallina v0.1\obj\Debug\Pallina v0.1.csprojResolveAssemblyReference.cache
+G:\dati\SCUOLA\QUARTA\INFORMATICA\Progetto Pallina\Pallina v2.5\Pallina v0.1\obj\Debug\Pallina_v0._1.Form1.resources
+G:\dati\SCUOLA\QUARTA\INFORMATICA\Progetto Pallina\Pallina v2.5\Pallina v0.1\obj\Debug\Pallina_v0._1.Properties.Resources.resources
+G:\dati\SCUOLA\QUARTA\INFORMATICA\Progetto Pallina\Pallina v2.5\Pallina v0.1\obj\Debug\Pallina v0.1.csproj.GenerateResource.Cache
+G:\dati\SCUOLA\QUARTA\INFORMATICA\Progetto Pallina\Pallina v2.5\Pallina v0.1\obj\Debug\Pallina v0.1.csproj.CoreCompileInputs.cache
+G:\dati\SCUOLA\QUARTA\INFORMATICA\Progetto Pallina\Pallina v2.5\Pallina v0.1\obj\Debug\Pallina v0.1.exe
+G:\dati\SCUOLA\QUARTA\INFORMATICA\Progetto Pallina\Pallina v2.5\Pallina v0.1\obj\Debug\Pallina v0.1.pdb
+H:\dati\SCUOLA\QUARTA\INFORMATICA\Progetto Pallina\Pallina v2.5\Pallina v0.1\bin\Debug\Pallina v0.1.exe.config
+H:\dati\SCUOLA\QUARTA\INFORMATICA\Progetto Pallina\Pallina v2.5\Pallina v0.1\bin\Debug\Pallina v0.1.exe
+H:\dati\SCUOLA\QUARTA\INFORMATICA\Progetto Pallina\Pallina v2.5\Pallina v0.1\bin\Debug\Pallina v0.1.pdb
+H:\dati\SCUOLA\QUARTA\INFORMATICA\Progetto Pallina\Pallina v2.5\Pallina v0.1\obj\Debug\Pallina v0.1.csprojResolveAssemblyReference.cache
+H:\dati\SCUOLA\QUARTA\INFORMATICA\Progetto Pallina\Pallina v2.5\Pallina v0.1\obj\Debug\Pallina_v0._1.Form1.resources
+H:\dati\SCUOLA\QUARTA\INFORMATICA\Progetto Pallina\Pallina v2.5\Pallina v0.1\obj\Debug\Pallina_v0._1.Properties.Resources.resources
+H:\dati\SCUOLA\QUARTA\INFORMATICA\Progetto Pallina\Pallina v2.5\Pallina v0.1\obj\Debug\Pallina v0.1.csproj.GenerateResource.Cache
+H:\dati\SCUOLA\QUARTA\INFORMATICA\Progetto Pallina\Pallina v2.5\Pallina v0.1\obj\Debug\Pallina v0.1.csproj.CoreCompileInputs.cache
+H:\dati\SCUOLA\QUARTA\INFORMATICA\Progetto Pallina\Pallina v2.5\Pallina v0.1\obj\Debug\Pallina v0.1.exe
+H:\dati\SCUOLA\QUARTA\INFORMATICA\Progetto Pallina\Pallina v2.5\Pallina v0.1\obj\Debug\Pallina v0.1.pdb
+H:\dati\SCUOLA\QUARTA\INFORMATICA\Progetto Pallina\Formaggio Alberto\Pallina v0.1\bin\Debug\Pallina v0.1.exe.config
+H:\dati\SCUOLA\QUARTA\INFORMATICA\Progetto Pallina\Formaggio Alberto\Pallina v0.1\bin\Debug\Pallina v0.1.exe
+H:\dati\SCUOLA\QUARTA\INFORMATICA\Progetto Pallina\Formaggio Alberto\Pallina v0.1\bin\Debug\Pallina v0.1.pdb
+H:\dati\SCUOLA\QUARTA\INFORMATICA\Progetto Pallina\Formaggio Alberto\Pallina v0.1\obj\Debug\Pallina v0.1.csprojResolveAssemblyReference.cache
+H:\dati\SCUOLA\QUARTA\INFORMATICA\Progetto Pallina\Formaggio Alberto\Pallina v0.1\obj\Debug\Pallina_v0._1.Form1.resources
+H:\dati\SCUOLA\QUARTA\INFORMATICA\Progetto Pallina\Formaggio Alberto\Pallina v0.1\obj\Debug\Pallina_v0._1.Properties.Resources.resources
+H:\dati\SCUOLA\QUARTA\INFORMATICA\Progetto Pallina\Formaggio Alberto\Pallina v0.1\obj\Debug\Pallina v0.1.csproj.GenerateResource.Cache
+H:\dati\SCUOLA\QUARTA\INFORMATICA\Progetto Pallina\Formaggio Alberto\Pallina v0.1\obj\Debug\Pallina v0.1.csproj.CoreCompileInputs.cache
+H:\dati\SCUOLA\QUARTA\INFORMATICA\Progetto Pallina\Formaggio Alberto\Pallina v0.1\obj\Debug\Pallina v0.1.exe
+H:\dati\SCUOLA\QUARTA\INFORMATICA\Progetto Pallina\Formaggio Alberto\Pallina v0.1\obj\Debug\Pallina v0.1.pdb
